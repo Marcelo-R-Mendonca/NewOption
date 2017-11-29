@@ -1,0 +1,6 @@
+Use  Linux Command Line: Open Git Bash console
+
+https://realpython.com/blog/python/flask-by-example-part-1-project-setup/
+
+Activate Environment: ENV\Scripts\activate
+
